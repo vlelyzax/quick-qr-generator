@@ -1,2 +1,8 @@
-# quick-qr-generator
-Lightweight client-side QR code generator with custom styling and export options.
+# Quick QR Generator
+
+A simple, fast, and dependency-free QR code generator web application.
+
+## Features
+- Real-time generation
+- Instant SVG/PNG download
+- Responsive UI
